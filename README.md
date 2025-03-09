@@ -41,7 +41,7 @@ A continuación, se presentan capturas de la funcionalidad en acción:
 
 <h2>Estructura del Proyecto</h2>
 
-<h3>📂 sorteo-amigos</h3>
+<h3>📂 challenge-amigo-secreto_esp-main</h3>
 <ul>
 <li>│── 📄 index.html    # Interfaz principal</li>
 <li>│── 📄 styles.css    # Estilos de la aplicación</li>
